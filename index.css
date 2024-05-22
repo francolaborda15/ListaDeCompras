@@ -36,6 +36,7 @@ inputs{
     font-size: 20px;
     text-align: center;
     font-family: 'Rubik', sans-serif;
+    max-width: 200px;
 }
 
 #input-number{
